@@ -1,7 +1,7 @@
 import signal, os
 import RPi.GPIO as GPIO
 import time
-# comment mad on raspberry
+# comment made on raspberry
 
 AIN1 = 2
 AIN2 = 3

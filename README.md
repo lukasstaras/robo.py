@@ -1,0 +1,2 @@
+# robo.py
+print("robo")
